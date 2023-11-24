@@ -18,4 +18,4 @@ Version 0.1.5
 https://github.com/blendman/agk_lge3D/tree/main/release
 
 # videos
-![LGE3D](https://www.youtube.com/watch?v=Mv65DIwuFP0)
+https://www.youtube.com/watch?v=Mv65DIwuFP0
